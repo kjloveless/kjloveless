@@ -1,6 +1,14 @@
 ### Hi there 👋
 
-Welcome to my page!
+About:
+- Delphi developer by day.
+- .NET <3
+- Deno fan
+
+- 🔭 I’m currently working on ...
+  - zish - a shell written in Zig
+- 🌱 I’m currently learning ...
+  - Zig - see above ^^
 
 <!--
 **kjloveless/kjloveless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
