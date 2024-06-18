@@ -8,7 +8,8 @@ About:
 - 🔭 I’m currently working on ...
   - zish - a shell written in Zig
 - 🌱 I’m currently learning ...
-  - Zig - see above ^^
+  - Zig
+  - Go
 
 <!--
 **kjloveless/kjloveless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
