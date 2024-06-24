@@ -6,7 +6,8 @@ About:
 - Deno fan
 
 - 🔭 I’m currently working on ...
-  - zish - a shell written in Zig
+  - zish - a shell written (Zig)
+  - blip - a kilo like text editor (Zig)
 - 🌱 I’m currently learning ...
   - Zig
   - Go
