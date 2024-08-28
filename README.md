@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-About:
-
 Delphi developer by day
 - 🔭 I’m currently working on ...
   - zish - a shell written (Zig)
