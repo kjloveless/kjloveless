@@ -2,7 +2,7 @@
 
 Delphi developer by day
 - 🔭 I’m currently working on ...
-  - zish - a shell written (Zig)
+  - zish - a posix shell (Zig)
   - blip - a kilo like text editor (Zig)
 - 🌱 I’m currently learning ...
   - Zig
