@@ -4,10 +4,13 @@ Delphi developer by day
 - 🔭 I’m currently working on ...
   - zish - a posix shell (Zig)
   - blip - a kilo like text editor (Zig)
+  - deno-community-handles - a Deno port of mozzius/community_handles (Deno)
 - 🌱 I’m currently learning ...
   - Zig
   - Go
-  - OCaml
+  - brushing up on C
+- 📫 How to reach me: ...
+  - [Bluesky](https://bsky.app/profile/did:plc:zjgxnvy4b55v4ovuaqxa2qgy)
 
 <!--
 **kjloveless/kjloveless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
