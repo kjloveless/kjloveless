@@ -9,8 +9,6 @@ Delphi developer by day
   - Zig
   - Go
   - brushing up on C
-- 📫 How to reach me: ...
-  - [Bluesky](https://bsky.app/profile/did:plc:zjgxnvy4b55v4ovuaqxa2qgy)
 
 <!--
 **kjloveless/kjloveless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
