@@ -4,6 +4,7 @@ Delphi developer by day
 - 🔭 I’m currently working on ...
   - zish - a posix shell (Zig)
   - blip - a kilo like text editor (Zig)
+  - dacytl - another kilo clone (TS | Deno)
   - deno-community-handles - a Deno port of mozzius/community_handles (Deno)
 - 🌱 I’m currently learning ...
   - Zig
