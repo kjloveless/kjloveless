@@ -2,6 +2,7 @@
 
 Delphi developer by day
 - 🔭 I’m currently working on ...
+  - teal.fm - music centered social media platform on atproto (Typescript/Go)
   - zish - a posix shell (Zig)
   - blip - a kilo like text editor (Zig)
   - dacytl - another kilo clone (TS | Deno)
