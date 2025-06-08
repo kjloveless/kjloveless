@@ -3,10 +3,10 @@
 Delphi developer by day
 - 🔭 I’m currently working on ...
   - teal.fm - music centered social media platform on atproto (Typescript/Go)
+  - piper - music listening tracker for teal.fm
   - zish - a posix shell (Zig)
   - blip - a kilo like text editor (Zig)
   - dacytl - another kilo clone (TS | Deno)
-  - deno-community-handles - port of mozzius/community_handles (Deno)
 - 🌱 I’m currently learning ...
   - Zig
   - Go
