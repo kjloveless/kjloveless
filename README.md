@@ -1,14 +1,11 @@
-### Hi there 👋
+### hi there 👋
 
-Delphi developer by day
-- 🔭 I’m currently working on ...
-  - chat - tui based openai client 
-  - blip - a kilo like text editor (Zig)
+delphi by day
+- 🔭 i’m currently working on ...
+  - chat - tui based openai client (Go)
   - dacytl - another kilo clone (TS | Deno)
-- 🌱 I’m currently learning ...
-  - Zig
+- 🌱 i’m currently learning ...
   - Go
-  - brushing up on C
 
 <!--
 **kjloveless/kjloveless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
