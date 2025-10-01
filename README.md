@@ -1,8 +1,7 @@
 ### hi there 👋
 
 delphi by day
-- 🔭 i’m currently working on ...
-  - chat - tui based openai client (Go)
+- 🔭 i’m currently working ...
   - dacytl - another kilo clone (TS | Deno)
 - 🌱 i’m currently learning ...
   - Go
