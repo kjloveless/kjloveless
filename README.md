@@ -3,6 +3,7 @@
 delphi by day
 - 🔭 i’m currently working ...
   - dacytl - another kilo clone (TS | Deno)
+  - tmp - terminal music player (Go)
 - 🌱 i’m currently learning ...
   - Go
 
