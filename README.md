@@ -5,6 +5,7 @@ delphi by day
   - dacytl - another kilo clone (TS | Deno)
   - tmp - terminal music player (Go)
   - sewage - basic git implementaton (python3, may port to Zig)
+  - sidewinder - open source git forge (Go)
 - 🌱 i’m currently learning ...
   - Go
 
