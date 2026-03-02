@@ -9,8 +9,7 @@ delphi by day
 - 🌱 i’m currently learning ...
   - Go
 
-we have done so much, for so long with so little. 
-
+we have done so much, for so long, with so little.  
 we are now qualified to do anything, with nothing.
 <!--
 **kjloveless/kjloveless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
