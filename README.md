@@ -5,7 +5,7 @@
   - m80 - virtual machine manager (Zig)
 - i’m currently learning ...
   - Go
-
+---
 we have done so much, for so long, with so little.  
 we are now qualified to do anything, with nothing.
 <!--
