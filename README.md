@@ -1,10 +1,10 @@
-### hi there 👋
+### hello visitor
 
 delphi by day
-- 🔭 i’m currently working ...
+- i’m currently working ...
   - tmp - terminal music player (Go)
   - m80 - virtual machine manager (Zig)
-- 🌱 i’m currently learning ...
+- i’m currently learning ...
   - Go
 
 we have done so much, for so long, with so little.  
