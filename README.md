@@ -1,4 +1,4 @@
-## hello visitor
+## greetings traveler
 
 - i’m currently working on...
   - tmp - terminal music player (Go)
