@@ -2,7 +2,6 @@
 
 - i’m currently working on...
   - tmp - terminal music player (Go)
-  - m80 - virtual machine manager (Zig)
 - i’m currently learning ...
   - Go
 ---
