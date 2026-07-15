@@ -1,7 +1,6 @@
 ## greetings traveler
 
-- i’m currently working on...
-  - tmp - terminal music player (Go)
+- i’m currently working on..
   - tuck - [top secret] (Go/TypeScript)
 ---
 we have done so much, for so long, with so little.  
