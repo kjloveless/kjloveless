@@ -1,7 +1,7 @@
 ## greetings traveler
 
 - i’m currently working on..
-  - tuck - [top secret] (Go/TypeScript)
+  - tuck - local photo backup (google photos @home) (Go/TypeScript)
 ---
 we have done so much, for so long, with so little.  
 we are now qualified to do anything, with nothing.
